@@ -1,0 +1,16 @@
+{
+  "name": "codemods",
+  "version": "0.0.1",
+  "repository": "https://github.com/lukomwro/codemods.git",
+  "description": "Codemods playground",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "jest": "^22.0.0",
+    "jscodeshift": "^0.4.0"
+  }
+}
